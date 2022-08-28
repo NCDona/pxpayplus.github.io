@@ -20,8 +20,23 @@ h1{
     padding: 20px;
 }
 
+h2{
+        line-height: 30px;
+
+}
+
+h2 em{
+    color: red;
+    font-size:medium;
+    padding: 10px;
+    
+    
+}
+
 .step_two,.step_three h2{
     padding-top: 60px;
+    padding-right: 40px;
+
 }
 
 .container{
